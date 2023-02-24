@@ -4,7 +4,7 @@ A full-stack MERN website for movie theaters that allows users to browse for fil
 
 
 <h2>Installation</h2>
-Use the package manager [npm](https://www.npmjs.com/) to install iCinema.
+Use the package managesr [npm](https://www.npmjs.com/) to install iCinema.
 
 Setup the project and install the packages by running: 
 ```bash
